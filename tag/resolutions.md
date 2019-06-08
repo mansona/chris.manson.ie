@@ -1,0 +1,5 @@
+---
+name: Resolutions
+image:
+imageMeta:
+---
