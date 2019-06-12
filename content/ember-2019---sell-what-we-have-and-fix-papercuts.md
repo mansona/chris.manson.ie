@@ -1,6 +1,6 @@
 ---
 title: Ember 2019 - Sell What We Have and Fix Papercuts
-image:
+image: /images/denise-jans-683766-unsplash.jpg
 imageMeta:
   attribution:
   attributionLink:
