@@ -31,7 +31,7 @@ Although I think that Ember Octane is a net positive, I would urge that we have 
 
 As a member of the Ember Core Learning Team, I have been focusing on the website and documentation sites for almost 2 years now, and so that outcome is something I feel responsible for. There things that I wish I had done better, but here's what I think we can do today as an organisation to "sell" what we have and improve our communication around Octane:
 
-- Improve the [Editions](https://emberjs.com/editions/) and [Octane](https://emberjs.com/editions/octane) so that they fully communicate what Octane is
+- Improve the [Editions](https://emberjs.com/editions/) and [Octane](https://emberjs.com/editions/octane) pages on the website so that they fully communicate what Octane is
 - Go back through the [Roadmap RFC](https://github.com/emberjs/rfcs/pull/364) that introduces the idea of Editions and make sure that the major points are communicated on the website
 - Make it more explicit that Octane is just a backwards-compatible regular release that will only change new apps unless you explicitly opt-in
 
