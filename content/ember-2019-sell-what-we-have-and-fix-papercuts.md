@@ -29,7 +29,7 @@ For those who don't know already, [Ember Octane](https://emberjs.com/editions/oc
 
 Although I think that Ember Octane is a net positive, I would urge that we have a sense of caution. We shouldn't be using Octane to drive interest in Ember until the day **after** it is officially released. There has already been quite a lot of confusion and many questions like "I'm starting a new app, should I build it in Octane?". That's not good, and indicates a failure to communicate what the preview is intended for.
 
-As a member of the Ember Core Learning Team, I have been focusing on the website and documentation sites for almost 2 years now, and so that outcome is something I feel responsible for. There things that I wish I had done better, but here's what I think we can do today as an organisation to "sell" what we have and improve our communication around Octane:
+As a member of the Ember Core Learning Team, I have been focusing on the website and documentation sites for almost 2 years now, and so that outcome is something I feel responsible for. There are things that I wish I had done better, but here's what I think we can do today as an organisation to "sell" what we have and improve our communication around Octane:
 
 - Improve the [Editions](https://emberjs.com/editions/) and [Octane](https://emberjs.com/editions/octane) pages on the website so that they fully communicate what Octane is
 - Go back through the [Roadmap RFC](https://github.com/emberjs/rfcs/pull/364) that introduces the idea of Editions and make sure that the major points are communicated on the website
@@ -50,7 +50,7 @@ Here are a few steps we can take to address CLI issues:
 - We need to get the API docs for ember-cli into the Ember API Docs viewer
 - Embroider needs an RFC (read on for more details)
 
-Embroider is a promising project, but the RFC is overdue. If you have been following the Ember community recently, you might have heard Embroider touted as a great fix to how ember-cli works going forward. I am very worried about how this project is being considered as a "fix all", that we are banking on this one project fixing a most of our woes. Meanwhile, lots of time, energy, and enthusiasm is spent on something that hasn't passed formal review yet. With so much momentum already in place, would that mean that the Embroider RFC will be accepted regardless of what is said in the process? It feels too big to fail. Are we stealing oxygen from the room that should be spent on ember-cli instead, at this point in time?
+Embroider is a promising project, but the RFC is overdue. If you have been following the Ember community recently, you might have heard Embroider touted as a great fix to how ember-cli works going forward. I am very worried about how this project is being considered as a "fix all", that we are banking on this one project fixing most of our woes. Meanwhile, lots of time, energy, and enthusiasm is spent on something that hasn't passed formal review yet. With so much momentum already in place, would that mean that the Embroider RFC will be accepted regardless of what is said in the process? It feels too big to fail. Are we stealing oxygen from the room that should be spent on ember-cli instead, at this point in time?
 
 All of my concerns about Embroider could be misguided, and with Ed Faulkner at the helm I am not worried in any way about the technical decisions or likelihood of the project being successful. I guess I would like the RFC to be accepted before we broadcast it and deflect efforts away from ember-cli itself.
 
