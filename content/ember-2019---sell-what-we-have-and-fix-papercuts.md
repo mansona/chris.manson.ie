@@ -118,3 +118,5 @@ It is possible to read parts of this blog post and think that I am against some 
 Some of the changes that are coming will probably help us appeal to a wider install base, and in that journey, we need to make sure we remember what is great about Ember already. We have built an amazing tool and a fantastic community and yes we need to do better at encouraging others to try Ember but let's not forget that what we have built is pretty good!
 
 Maybe, with a bit of the right encouragement, we might be able to help people see the strengths that Ember has **now** and not tell them "it will be better tomorrow".
+
+> If you have any questions or comments about this post please feel free to [chat with me on Twitter](https://twitter.com/real_ate)
