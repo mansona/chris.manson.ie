@@ -7,6 +7,7 @@ const Router = EmberRouter.extend({
   rootURL: config.rootURL,
 
   metrics: service(),
+  fastboot: service(),
 
   init() {
     this._super(...arguments);
@@ -17,6 +18,10 @@ const Router = EmberRouter.extend({
   },
 
   _trackPage() {
+    if (this.fastboot.isFastBoot) {
+      return;
+    }
+
     const page = this.currentURL;
     const title = this.currentRouteName || 'unknown';
 
