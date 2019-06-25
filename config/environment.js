@@ -43,7 +43,15 @@ module.exports = function(environment) {
       removeSourceDir: false,
       justCopy: false,
       extensions: ['jpg', 'jpeg', 'png', 'gif']
-    }
+    },
+
+    metricsAdapters: [{
+      name: 'GoogleAnalytics',
+      environments: ['production'],
+      config: {
+        id: 'UA-39405480-3',
+      }
+    }]
   };
 
   if (environment === 'development') {
