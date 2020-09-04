@@ -1,21 +1,22 @@
 import EmberRouter from '@ember/routing/router';
-import config from './config/environment';
+import config from 'coders-log/config/environment';
+
 import { inject as service } from '@ember/service';
 
-const Router = EmberRouter.extend({
-  location: config.locationType,
-  rootURL: config.rootURL,
+export default class Router extends EmberRouter {
+  location = config.locationType;
+  rootURL = config.rootURL;
 
-  metrics: service(),
-  fastboot: service(),
+  @service metrics;
+  @service fastboot;
 
-  init() {
-    this._super(...arguments);
+  constructor() {
+    super(...arguments);
 
     this.on('routeDidChange', () => {
       this._trackPage();
     })
-  },
+  }
 
   _trackPage() {
     if (this.fastboot.isFastBoot) {
@@ -27,9 +28,7 @@ const Router = EmberRouter.extend({
 
     this.metrics.trackPage({ page, title });
   }
-});
+}
 
 Router.map(function() {
 });
-
-export default Router;
