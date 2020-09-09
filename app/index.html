@@ -16,8 +16,10 @@
   <body>
     {{content-for "body"}}
 
-    <script src="{{rootURL}}assets/vendor.js"></script>
-    <script src="{{rootURL}}assets/coders-log.js"></script>
+    <!--[if !IE]>-->
+    <script src="{{rootURL}}assets/vendor.js" defer></script>
+    <script src="{{rootURL}}assets/coders-log.js" defer></script>
+    <!--<![endif]-->
 
     {{content-for "body-footer"}}
   </body>
