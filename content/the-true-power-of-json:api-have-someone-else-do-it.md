@@ -7,7 +7,8 @@ imageMeta:
 featured: true
 meta_title: null
 meta_description: null
-author: chris
+authors:
+  - chris
 date: Thu Apr 15 2018 17:05:18 GMT+0100 (IST)
 tags:
   - ember

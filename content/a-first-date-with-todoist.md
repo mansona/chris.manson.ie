@@ -5,7 +5,8 @@ imageMeta:
   attribution:
   attributionLink:
 featured: true
-author: chris
+authors:
+  - chris
 date: Sun Jul 06 2015 13:10:00 UTC
 tags:
   - productivity

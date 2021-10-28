@@ -5,7 +5,8 @@ imageMeta:
   attribution:
   attributionLink:
 featured: true
-author: chris
+authors:
+  - chris
 date: Sun Jan 20 2016 18:47:00 UTC
 tags:
   - ember

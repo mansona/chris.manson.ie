@@ -5,7 +5,8 @@ imageMeta:
   attribution:
   attributionLink:
 featured: true
-author: chris
+authors:
+  - chris
 date: Sun Jan 02 2015 22:18:00 UTC
 tags:
   - resolutions
