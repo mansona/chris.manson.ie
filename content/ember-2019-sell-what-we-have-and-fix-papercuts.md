@@ -10,7 +10,6 @@ authors:
 date: Sat Jun 08 2019 16:44:13 GMT+0100 (Irish Standard Time)
 tags:
   - ember
-  - new
 ---
 
 This year will be bringing massive changes to the Ember landscape with the "release" of the upcoming Ember edition - Ember Octane. Along the way, I think we need to concentrate on three areas:

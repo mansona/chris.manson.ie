@@ -1,5 +1,5 @@
 ---
-name: New
+name: Recent Posts
 image:
 imageMeta:
 ---
