@@ -1,6 +1,6 @@
 ---
 title: It's All Gravy
-image:
+image: /images/natalia-shiel-TBV-H2KZ3U8-unsplash.jpg
 imageMeta:
   attribution:
   attributionLink:
