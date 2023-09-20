@@ -7,7 +7,7 @@ imageMeta:
 featured: true
 authors:
   - chris
-date: Tue Sep 19 2023 22:00:00 GMT+0100 (Irish Standard Time)
+date: Tue Jun 06 2023 22:00:00 GMT+0100 (Irish Standard Time)
 tags:
 ---
 
@@ -16,5 +16,7 @@ Starting in June I have had the fantastic opportunity to work on the Embroider I
 You can track some of the progress with our [GitHub Project in the embroider-build org](https://github.com/orgs/embroider-build/projects/1/) but this post will link to a weekly update of the progress being made. If you want to keep up with my progress as part of the Embroider Initiative, you can bookmark this page or follow the RSS feed for the blog.
 
 - [Week 16](/embroider-initiative-week-16)
+- Week 15 - Away 🏝️
+- [Week 14](/embroider-initiative-week-14)
 
 > Note: Week 1 would have been the first full week that I started working on Embroider full time which was the week starting 2023-06-05
