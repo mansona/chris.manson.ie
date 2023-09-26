@@ -9,6 +9,7 @@ authors:
   - chris
 date: Tue Sep 12 2023 12:11:39 GMT+0100 (Irish Standard Time)
 tags:
+  - embroider-initiative
 ---
 
 This week I made good progress on the ember-auto-import work that allows you to use Webpack to import files from inside your Ember app, I made some progress on my work to move scenario-tester to ESM, and there was also some Vite experimentation with Ember Addons. 

@@ -9,6 +9,7 @@ authors:
   - chris
 date: Wed Aug 29 2023 13:34:15 GMT+0100 (Irish Standard Time)
 tags:
+  - embroider-initiative
 ---
 
 This week I have been working on ember-cli-update to make sure that it will work with the v2 addon blueprint and allow people to keep up with the great progress that has been made in recent weeks. As a prerequisite I have had to fix the ember-cli-update CI which has been quite challenging. I have also been working with an Initiative backer to figure out what is causing a slowdown with their embroider build

@@ -9,6 +9,7 @@ authors:
   - chris
 date: Tue Sep 19 2023 22:15:34 GMT+0100 (Irish Standard Time)
 tags:
+  - embroider-initiative
 ---
 
 This week is quite an exciting one, consisting of a significant push into the `@embroider/vite` implementation and a better default experience for users generating a new Ember app with the `--embroider` flag.
