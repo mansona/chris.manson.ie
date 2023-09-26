@@ -18,5 +18,6 @@ You can track some of the progress with our [GitHub Project in the embroider-bui
 - [Week 16](/embroider-initiative-week-16)
 - Week 15 - Away 🏝️
 - [Week 14](/embroider-initiative-week-14)
+- [Week 13](/embroider-initiative-week-13)
 
 > Note: Week 1 would have been the first full week that I started working on Embroider full time which was the week starting 2023-06-05
