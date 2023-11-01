@@ -15,6 +15,7 @@ Starting in June I have had the fantastic opportunity to work on the Embroider I
 
 You can track some of the progress with our [GitHub Project in the embroider-build org](https://github.com/orgs/embroider-build/projects/1/) but this post will link to a weekly update of the progress being made. If you want to keep up with my progress as part of the Embroider Initiative, you can bookmark this page or follow the RSS feed for the blog.
 
+- [Week 20](/embroider-initiative-week-20)
 - [Week 19](/embroider-initiative-week-19)
 - [Week 18](/embroider-initiative-week-18)
 - [Week 17](/embroider-initiative-week-17)
