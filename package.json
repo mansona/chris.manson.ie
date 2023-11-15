@@ -7,8 +7,8 @@
   "license": "MIT",
   "author": "",
   "scripts": {
-    "build": "bottled-ember build --deps=empress-blog,empress-blog-casper-template,ember-cli-fastboot,prember --links=author,content,page,public,tag --environment=production",
-    "start": "bottled-ember serve --deps=empress-blog,empress-blog-casper-template,ember-cli-fastboot,prember --links=author,content,page,public,tag"
+    "build": "bottled-ember build --deps=empress-blog,empress-blog-casper-template,ember-cli-fastboot,prember --links=author,content,page,public,tag,overrides/styles:app/styles --environment=production",
+    "start": "bottled-ember serve --deps=empress-blog,empress-blog-casper-template,ember-cli-fastboot,prember --links=author,content,page,public,tag,overrides/styles:app/styles"
   },
   "devDependencies": {
     "bottled-ember": "^1.0.1",
