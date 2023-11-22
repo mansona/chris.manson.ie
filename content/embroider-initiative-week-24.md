@@ -17,14 +17,6 @@ tags:
 
 ## Investigating reports of bugs from the recent release
 
---- 
-
-# next week (can't add files on github ios)
-
-## helping to get reverse-exports merged
-
-## testing all of our PRs so far on vite
-
-## finally figuring out the problem with vite
+- pairing with ed on this
 
 

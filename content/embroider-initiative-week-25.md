@@ -1,0 +1,26 @@
+—
+title: Embroider Initiative Week 25
+image:
+imageMeta:
+  attribution:
+  attributionLink:
+featured: true
+authors:
+  - chris
+date: Mon Nov 20 2023 14:52:12 GMT+0000 (Greenwich Mean Time)
+tags:
+  - embroider-initiative
+—
+
+## helping to get reverse-exports merged
+
+## finishing up the embroider migration with an initiative backer
+
+- starting the work to move to static helpers and modifiers
+- manual work be we’ve added it to our todo list to
+
+## testing all of our PRs so far on vite
+
+## finally figuring out the problem with vite
+
+

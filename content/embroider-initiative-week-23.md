@@ -14,6 +14,8 @@ tags:
 
 ## Writing a summary blog post up until the start of November
 
+## Refactoring the embroider-implicit-modules to use import properly
+
 ## Finishing allowAppImports PR 🎉
 
 ## Community addon maintenance to fix Embroider for an Initiative Backer
