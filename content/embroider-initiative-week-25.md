@@ -23,4 +23,13 @@ tags:
 
 ## finally figuring out the problem with vite
 
+## releasing release-plan
+
+- the best release tool out there
+- I’ve been using release-plan to release release-plan and it has been glorious
+
+## working on adding helper disambiguation to angle-brackets code mod
+
+
+
 
