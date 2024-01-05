@@ -1,4 +1,4 @@
-—
+---
 title: Embroider Initiative Week 25
 image:
 imageMeta:
@@ -7,10 +7,10 @@ imageMeta:
 featured: true
 authors:
   - chris
-date: Mon Nov 20 2023 14:52:12 GMT+0000 (Greenwich Mean Time)
+date: Fri Nov 24 2023 14:52:12 GMT+0000 (Greenwich Mean Time)
 tags:
   - embroider-initiative
-—
+---
 
 ## helping to get reverse-exports merged
 
@@ -22,6 +22,8 @@ tags:
 ## testing all of our PRs so far on vite
 
 ## finally figuring out the problem with vite
+
+https://github.com/embroider-build/embroider/pull/1650
 
 ## releasing release-plan
 

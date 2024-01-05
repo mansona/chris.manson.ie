@@ -7,7 +7,7 @@ imageMeta:
 featured: true
 authors:
   - chris
-date: Mon Nov 06 2023 23:42:48 GMT+0000 (Greenwich Mean Time)
+date: Fri Nov 10 2023 23:42:48 GMT+0000 (Greenwich Mean Time)
 tags:
   - embroider-initiative
 ---
