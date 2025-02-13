@@ -1,6 +1,6 @@
 ---
 title: Progressively Improving a Massive Codebase With Lint to the Future
-image:
+image: /images/andreas-wagner-8H5kNkYmJYQ-unsplash.jpg
 imageMeta:
   attribution:
   attributionLink:
